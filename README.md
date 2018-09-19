@@ -10,6 +10,7 @@ Google Admob Guide and Important Links
 ## How to contribute
 * Contributions are very welcome: [Submit Here](https://github.com/mayursojitra/Google-Admob-Guide/issues/new)
 * Help me to review [pending submissions](https://github.com/mayursojitra/Google-Admob-Guide/issues) by leaving comments and "reactions"
+* [Issue Template](https://github.com/mayursojitra/Google-Admob-Guide/blob/master/ISSUE_TEMPLATE)
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
