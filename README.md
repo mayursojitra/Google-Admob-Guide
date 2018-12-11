@@ -15,3 +15,5 @@ Google Admob Guide and Important Links
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Mayur Sojitra](http://twitter.com/mayur_sojitra) has waived all copyright and related or neighboring rights to this work.
+
+<sup> Follow Ahmad's #FOSS work on GitHub <a href='https://github.com/mayursojitra'>@MayurSojitra</a> —   Say Hi on Twitter <a href="https://twitter.com/mayur_sojitra/">@Mayur_Sojitra</a></sup> <a  target="_blank" href='https://mayursojitra.com/'>👋 </a>
