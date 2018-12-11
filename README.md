@@ -17,3 +17,5 @@ Google Admob Guide and Important Links
 To the extent possible under law, [Mayur Sojitra](http://twitter.com/mayur_sojitra) has waived all copyright and related or neighboring rights to this work.
 
 <sup> Follow Mayur's #FOSS work on GitHub <a href='https://github.com/mayursojitra'>@MayurSojitra</a> —   Say Hi on Twitter <a href="https://twitter.com/mayur_sojitra/">@Mayur_Sojitra</a></sup> <a  target="_blank" href='https://mayursojitra.com/'>👋 </a>
+
+[![GitHub stars](https://img.shields.io/github/stars/mayursojitra/Google-Admob-Guide.svg?style=social&label=Stars)](https://github.com/mayursojitra/Google-Admob-Guide/stargazers) [![GitHub followers](https://img.shields.io/github/followers/mayursojitra.svg?style=social&label=Follow)](https://github.com/mayursojitra?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mayur_sojitra.svg?style=social&label=Tweet%20@Mayur_Sojitra)](https://twitter.com/mayur_sojitra/)
