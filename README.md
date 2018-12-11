@@ -16,4 +16,4 @@ Google Admob Guide and Important Links
 
 To the extent possible under law, [Mayur Sojitra](http://twitter.com/mayur_sojitra) has waived all copyright and related or neighboring rights to this work.
 
-<sup> Follow Ahmad's #FOSS work on GitHub <a href='https://github.com/mayursojitra'>@MayurSojitra</a> —   Say Hi on Twitter <a href="https://twitter.com/mayur_sojitra/">@Mayur_Sojitra</a></sup> <a  target="_blank" href='https://mayursojitra.com/'>👋 </a>
+<sup> Follow Mayur's #FOSS work on GitHub <a href='https://github.com/mayursojitra'>@MayurSojitra</a> —   Say Hi on Twitter <a href="https://twitter.com/mayur_sojitra/">@Mayur_Sojitra</a></sup> <a  target="_blank" href='https://mayursojitra.com/'>👋 </a>
