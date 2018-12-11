@@ -2,7 +2,7 @@
 Google Admob Guide and Important Links
 
 # Source Codes
-1. [Web View Android App with Push Notifications and AdMob](https://github.com/mayursojitra/Web-Mobile-App/)
+1. [Web View Android App with Push Notifications and AdMob](https://github.com/mayursojitra/Web-Mobile-App/) [![](https://img.shields.io/github/stars/mayursojitra/Web-Mobile-App.svg?style=social&label=Star&maxAge=200&cache=buster)](https://github.com/mayursojitra/Web-Mobile-App/stargazers)
 
 # Helpful Tools
 1. [Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
