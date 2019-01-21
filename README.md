@@ -6,6 +6,7 @@ Google Admob Guide and Important Links
 
 # Helpful Tools
 1. [Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+2. [Disposable Temporary Email](https://temp-mail.org/en/)
 
 # Tutorials and Guide about Admob
 1. [Integrate Google AdMob in your App](https://www.androidhive.info/2016/02/android-how-to-integrate-google-admob-in-your-app/)
