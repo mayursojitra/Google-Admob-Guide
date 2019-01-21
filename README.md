@@ -7,6 +7,9 @@ Google Admob Guide and Important Links
 # Helpful Tools
 1. [Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
 
+# Tutorials and Guide about Admob
+1. [Integrate Google AdMob in your App](https://www.androidhive.info/2016/02/android-how-to-integrate-google-admob-in-your-app/)
+
 ## How to contribute
 * Contributions are very welcome: [Submit Here](https://github.com/mayursojitra/Google-Admob-Guide/issues/new)
 * Help me to review [pending submissions](https://github.com/mayursojitra/Google-Admob-Guide/issues) by leaving comments and "reactions"
